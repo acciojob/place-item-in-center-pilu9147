@@ -6,9 +6,11 @@
 /* Your CSS Code here. */
 .holder {
 	width : 600px;
+	height : 600px;
 	background-color : skyblue;
 	display : flex;
 	flex-wrap : wrap;
+	align-items : center;
 	justify-content : center;
 	flex-direction : row-reverse;
 }
